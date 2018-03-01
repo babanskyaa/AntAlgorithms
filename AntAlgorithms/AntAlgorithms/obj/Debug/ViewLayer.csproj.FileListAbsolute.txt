@@ -1,0 +1,40 @@
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\bin\Debug\NewAntProject.exe.config
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\bin\Debug\NewAntProject.exe
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\bin\Debug\NewAntProject.pdb
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\bin\Debug\EntityLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\bin\Debug\LogicLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\bin\Debug\EntityLayer.pdb
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\bin\Debug\LogicLayer.pdb
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\obj\Debug\NewAntProject.FormMain.resources
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\obj\Debug\NewAntProject.Properties.Resources.resources
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\obj\Debug\ViewLayer.csproj.GenerateResource.Cache
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\obj\Debug\NewAntProject.exe
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\NewAntProject\obj\Debug\NewAntProject.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\bin\Debug\NewAntProject.exe.config
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\bin\Debug\NewAntProject.exe
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\bin\Debug\NewAntProject.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\bin\Debug\EntityLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\bin\Debug\LogicLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\bin\Debug\EntityLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\bin\Debug\LogicLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\obj\Debug\NewAntProject.FormMain.resources
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\obj\Debug\NewAntProject.Properties.Resources.resources
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\obj\Debug\ViewLayer.csproj.GenerateResource.Cache
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\obj\Debug\NewAntProject.exe
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\NewAntProject\obj\Debug\NewAntProject.pdb
+D:\NewAntProject\AntAlgorithms\bin\Debug\NewAntProject.exe.config
+D:\NewAntProject\AntAlgorithms\bin\Debug\NewAntProject.exe
+D:\NewAntProject\AntAlgorithms\bin\Debug\NewAntProject.pdb
+D:\NewAntProject\AntAlgorithms\bin\Debug\EntityLayer.dll
+D:\NewAntProject\AntAlgorithms\bin\Debug\LogicLayer.dll
+D:\NewAntProject\AntAlgorithms\bin\Debug\EntityLayer.pdb
+D:\NewAntProject\AntAlgorithms\bin\Debug\LogicLayer.pdb
+D:\NewAntProject\AntAlgorithms\obj\Debug\ViewLayer.csprojResolveAssemblyReference.cache
+D:\NewAntProject\AntAlgorithms\obj\Debug\NewAntProject.FormMain.resources
+D:\NewAntProject\AntAlgorithms\obj\Debug\NewAntProject.Properties.Resources.resources
+D:\NewAntProject\AntAlgorithms\obj\Debug\ViewLayer.csproj.GenerateResource.Cache
+D:\NewAntProject\AntAlgorithms\obj\Debug\ViewLayer.csproj.CoreCompileInputs.cache
+D:\NewAntProject\AntAlgorithms\obj\Debug\NewAntProject.exe
+D:\NewAntProject\AntAlgorithms\obj\Debug\NewAntProject.pdb

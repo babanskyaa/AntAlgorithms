@@ -1,0 +1,22 @@
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\LogicLayer\bin\Debug\EntityLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\LogicLayer\bin\Debug\EntityLayer.pdb
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\LogicLayer\bin\Debug\EntityLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\LogicLayer\bin\Debug\EntityLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\NewAntProject\LogicLayer\bin\Debug\LogicLayer.dll
+D:\NewAntProject\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\NewAntProject\LogicLayer\bin\Debug\EntityLayer.dll
+D:\NewAntProject\LogicLayer\bin\Debug\EntityLayer.pdb
+D:\NewAntProject\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\NewAntProject\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\NewAntProject\LogicLayer\obj\Debug\LogicLayer.dll
+D:\NewAntProject\LogicLayer\obj\Debug\LogicLayer.pdb

@@ -1,0 +1,9 @@
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\bin\Release\EntityLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\bin\Release\EntityLayer.pdb
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\obj\Release\EntityLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\obj\Release\EntityLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\bin\Release\EntityLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\bin\Release\EntityLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\obj\Release\EntityLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\obj\Release\EntityLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\obj\Release\EntityLayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Библиотеки (ссылки)\Documents\Visual Studio 2015\Projects\NewAntProject\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Библиотеки\Desktop\Диплом\Проекты\NewAntProject\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\NewAntProject\EntityLayer\bin\Debug\EntityLayer.dll
+D:\NewAntProject\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\NewAntProject\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\NewAntProject\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\NewAntProject\EntityLayer\obj\Debug\EntityLayer.dll
+D:\NewAntProject\EntityLayer\obj\Debug\EntityLayer.pdb
